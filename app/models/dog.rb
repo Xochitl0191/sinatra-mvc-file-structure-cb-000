@@ -12,3 +12,5 @@ def name
 end
 
 end
+
+#name, breed, and age attributes which can be set on initialization.
